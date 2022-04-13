@@ -10,7 +10,6 @@ namespace snake
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ABOBA");
         }
     }
 }
